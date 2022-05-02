@@ -1,0 +1,22 @@
+{
+    "registros": [
+        {
+            "id": 1,
+            "nombre": "Sara Bermudez",
+            "tipo": "C.C",
+            "numero": "1234567890",
+            "telefono": "123456789",
+            "direccion": " cll 80 db",
+            "imagen": "imagen"
+        },
+        {
+            "id": 2,
+            "nombre": "Pepito Perez",
+            "tipo": "C.C",
+            "numero": "1234567890",
+            "telefono": "123456789",
+            "direccion": " cll 80 db",
+            "imagen": "imagen"
+        }
+    ]
+}
